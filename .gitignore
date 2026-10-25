@@ -1,0 +1,19 @@
+# Python va virtual muhit
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE (VS Code) sozlamalari
+.vscode/
+
+# Atrof-muhit va maxfiy ma'lumotlar
+.env
+*.sqlite3
+db.sqlite3
+
+
+lesson2
+lesson3
